@@ -24,3 +24,5 @@ async function getVideoSources() {
 
 	videoOptionsMenu.popup();
 }
+
+// Add tests
